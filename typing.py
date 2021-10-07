@@ -1,5 +1,6 @@
-# cook your dish here
-left = ['d','f']
+# problem link--https://www.codechef.com/problems/TYPING
+
+
 right = ['j','k']
 for _ in range(int(input())):
     l =[]
